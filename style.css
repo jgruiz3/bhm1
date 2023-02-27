@@ -1,0 +1,30 @@
+h1{
+  color: pink;
+}
+
+.row{
+  display:flex;
+  justify-content:center;
+  justify-content:space-around;
+}
+img{
+  width:100%;
+  object-fit:contain;
+}
+
+hr{
+  border: 2px dotted pink;
+}
+.intro{
+  width:80%;
+  margin: 0 auto;
+  
+}
+body{
+  background-image:
+    url(https://www.gloryart.co/wp-content/uploads/2019/03/2019-03-12_07-12-16.png);
+  background-repeat:no repeat;
+  background-attachment: fixed;
+  background-size: cover;
+ 
+}
